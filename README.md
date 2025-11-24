@@ -1,4 +1,4 @@
-# Examen 1 - Aplicación de Login con React Native
+# Examen 2 - Aplicación de Login con React Native
 
 ## Descripción del Proyecto
 
